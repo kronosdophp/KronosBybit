@@ -1,7 +1,7 @@
 # KronosTradeBot
 
-![GitHub repo size](https://img.shields.io/github/repo-size/kronosdophp/KronosTradeBot)
-![GitHub last commit](https://img.shields.io/github/last-commit/kronosdophp/KronosTradeBot)
+![GitHub repo size](https://img.shields.io/github/repo-size/kronosdophp/KronosBybit)
+![GitHub last commit](https://img.shields.io/github/last-commit/kronosdophp/KronosBybit)
 
 🚀 **Bot de automação para compra e venda de criptomoedas na Bybit, utilizando Selenium e a estratégia Iceberg.**
 
